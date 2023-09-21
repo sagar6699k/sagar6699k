@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **sagarkurewar@gmail.com**
 
-- 📄 Know about my experiences [https://portfoliosagar.herokuapp.com/](https://portfoliosagar.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

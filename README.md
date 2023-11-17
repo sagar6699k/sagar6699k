@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sagar Kurewar</h1>
-<h3 align="center">A passionate MERN Stack Developer from Nagpur, India</h3>
+<h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar6699k&label=Profile%20views&color=0e75b6&style=flat" alt="sagar6699k" /> </p>
 
-- 🌱 I’m currently learning **ReactNative and latest JavaScript library along with Data Structures & Algorithms.**
+- 🌱 I’m currently working as **Software Development Engineer at Indusnet Technology Pvt. Ltd.**
 
-- 💬 Ask me about **JavaScript, React, redux, NextJS, Express, PostgreSQL, , & MongoDB.**
+- 💬 Ask me about **JavaScript, React, redux, NextJS, Express, PostgreSQL, & MongoDB.**
 
 - 📫 How to reach me **sagarkurewar@gmail.com**
 
